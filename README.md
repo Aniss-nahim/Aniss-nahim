@@ -18,7 +18,7 @@
 
 <h1>
   Hey heroes
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
 </h1>
 
 Welcome to my Github profile, I'm Aniss, a hands-on learner software engineer. Software Programming has changed my life since I wrote my first line of code in C. In my free time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.
